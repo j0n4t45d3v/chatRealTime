@@ -26,6 +26,17 @@ repositorio pratico de web sockets em java num projeto de chat em tempo real
 ```bash 
   java -jar target/chatRealTime-0.0.1-SNAPSHOT.jar
 ```
+5. Acessar o chat
+```bash 
+  http://localhost:8080
+```
+
+## Telas do projeto
+
+### Tela de Entrada
+![](images/tela-de-login.png)
+### Tela do Chat
+![](images/chat.png)
 
 ## Autor
 - Jonatas De Lima

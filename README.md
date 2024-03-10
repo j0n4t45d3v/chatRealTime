@@ -1,6 +1,7 @@
 # CHAT REAL TIME :computer:
 
-repositorio pratico de web sockets em java num projeto de chat em tempo real
+repositorio pratico de web sockets em java num projeto de chat em tempo real.
+Projeto desenvolvido com base no repositorio e Video do Youtube de [DanielTM999](https://github.com/DanielTM999/chat_realtime_springboot)
 
 ## Tecnologias utilizadas
 - Java 17
